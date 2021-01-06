@@ -138,8 +138,7 @@ ol {
 #quiry {
   height: 225px;
   width: 900px;
-  background-image: url("images/inquary.png");
-  background-repeat: no-repeat;
+  background-image: url("inquary.png");
   margin: auto;
   background-size: 100%;
   margin-top: 70px;
