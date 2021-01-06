@@ -1,176 +1,175 @@
 body {
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-  }
-  ul {
-    float: right;
-    margin-right: 10%;
-    padding: 15px;
-    margin-bottom: 50px;
-  }
-  #menu li {
-    text-decoration: none;
-    display: inline;
-    padding: 15px;
-    font-weight: 900;
-    font-size: larger;
-  }
-  .top-banner {
-    margin-top: 50px;
-    height: 750px;
-  }
-  .top-banner-div-wide {
-    float: left;
-    width: 40%;
-    margin-left: 10%;
-  }
-  .top-banner-div-wide img {
-    width: 70%;
-  }
-  .top-banner-div-wide h1 {
-    font-family: "Bebas Neue";
-    font-size: 38px;
-    font-weight: 700;
-    color: #363958;
-    margin-bottom: 0px;
-  }
-  .top-banner-div-wide h2 {
-    font-family: "Bebas Neue";
-    margin-top: 0px;
-    color: tomato;
-    font-weight: 900;
-    font-weight: bold;
-    font-size: 30px;
-  }
-  .top-banner-div-wide p {
-    text-align: justify;
-    padding-right: 30%;
-  }
-  .link_button {
-    text-decoration: none;
-    background-image: linear-gradient(45deg, tomato, blue);
-    padding: 8px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 700;
-    font-size: 16px;
-  }
-  
-  .mid-section {
-    height: 680px;
-    background-color: #e5e5e5;
-  }
-  .midwrapper {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .mid-section h1 {
-    text-align: center;
-    padding: 50px 0px;
-    font-weight: 900;
-    font-size: 25px;
-  }
-  .LastetStyle {
-    color: #f46060;
-    font-family: "Bebas Neue";
-    font-weight: 700;
-    font-size: 30px;
-  }
-  .WorkStyle {
-    color: #363958;
-    font-family: "Bebas Neue";
-    font-weight: 700;
-    font-size: 30px;
-  }
-  .mid-section-div {
-    width: 320px;
-    height: 374px;
-    float: left;
-    background-color: white;
-    padding: 10px;
-    border-radius: 15px;
-    margin: 15px;
-    box-shadow: 5px 10px 30px rgb(44, 44, 44);
-  }
-  .mid-section-div img {
-    width: 100%;
-  }
-  .mid-section-div h2{
-    color: #363958;
-    font-weight: bolder;
-  }
-  .skills_section {
-    height: 600px;
-    background-color: whitesmoke;
-    box-shadow: 5px 10px 30px rgb(167, 212, 248);
-  }
-  .skills_view {
-    text-align: center;
-    width: 55%;
-    margin: auto;
-    padding: 10px;
-  }
-  .skills_view p {
-    text-align: justify;
-  }
-  .skills-list {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .skills {
-    height: 350px;
-    width: 25%;
-    background-color: white;
-    margin: 10px;
-    float: left;
-    border-radius: 20px;
-    text-align: center;
-    box-shadow: 7px 10px #fae1e1;
-  }
-  ol {
-    text-align: left;
-    font-size: 18px;
-    font-weight: 500;
-    font-weight: bold;
-  }
-  #quiry {
-    height: 225px;
-    width: 900px;
-    background-image: url("inquary.png");
-    background-repeat: no-repeat;
-    margin: auto;
-    background-size: 100%;
-    margin-top: 70px;
-    margin-bottom: 70px;
-    border-radius: 30px;
-  }
-  #quiry h1 {
-    float: left;
-    padding: 70px;
-    color: white;
-    font-weight: 700;
-  }
-  .link_button2 {
-    float: right;
-    margin: 90px;
-    text-decoration: none;
-    padding: 10px;
-    border-radius: 15px;
-    color: white;
-    font-weight: 900;
-    background-image: linear-gradient(55deg, tomato, salmon);
-  }
-  .footericon {
-    text-align: center;
-  }
-  .footericon h3 {
-    color: #b3b3b6;
-    margin-bottom: -10px;
-  }
-  .footericon img {
-    width: 30px;
-    margin-right: 10px;
-    margin-top: -5px;
-  
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+ul {
+  float: right;
+  margin-right: 10%;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+#menu li {
+  text-decoration: none;
+  display: inline;
+  padding: 15px;
+  font-weight: 900;
+  font-size: larger;
+}
+.top-banner {
+  margin-top: 50px;
+  height: 750px;
+}
+.top-banner-div-wide {
+  float: left;
+  width: 40%;
+  margin-left: 10%;
+}
+.top-banner-div-wide img {
+  width: 70%;
+}
+.top-banner-div-wide h1 {
+  font-family: "Bebas Neue";
+  font-size: 38px;
+  font-weight: 700;
+  color: #363958;
+  margin-bottom: 0px;
+}
+.top-banner-div-wide h2 {
+  font-family: "Bebas Neue";
+  margin-top: 0px;
+  color: tomato;
+  font-weight: 900;
+  font-weight: bold;
+  font-size: 30px;
+}
+.top-banner-div-wide p {
+  text-align: justify;
+  padding-right: 30%;
+}
+.link_button {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, tomato, blue);
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.mid-section {
+  height: 680px;
+  background-color: #e5e5e5;
+}
+.midwrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mid-section h1 {
+  text-align: center;
+  padding: 50px 0px;
+  font-weight: 900;
+  font-size: 25px;
+}
+.LastetStyle {
+  color: #f46060;
+  font-family: "Bebas Neue";
+  font-weight: 700;
+  font-size: 30px;
+}
+.WorkStyle {
+  color: #363958;
+  font-family: "Bebas Neue";
+  font-weight: 700;
+  font-size: 30px;
+}
+.mid-section-div {
+  width: 320px;
+  height: 374px;
+  float: left;
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 15px;
+  box-shadow: 5px 10px 30px rgb(44, 44, 44);
+}
+.mid-section-div img {
+  width: 100%;
+}
+.mid-section-div h2{
+  color: #363958;
+  font-weight: bolder;
+}
+.skills_section {
+  height: 600px;
+  background-color: whitesmoke;
+  box-shadow: 5px 10px 30px rgb(167, 212, 248);
+}
+.skills_view {
+  text-align: center;
+  width: 55%;
+  margin: auto;
+  padding: 10px;
+}
+.skills_view p {
+  text-align: justify;
+}
+.skills-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.skills {
+  height: 350px;
+  width: 25%;
+  background-color: white;
+  margin: 10px;
+  float: left;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 7px 10px #fae1e1;
+}
+ol {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500;
+  font-weight: bold;
+}
+#quiry {
+  height: 225px;
+  width: 900px;
+  background-image: url("images/inquary.png");
+  background-repeat: no-repeat;
+  margin: auto;
+  background-size: 100%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  border-radius: 30px;
+}
+#quiry h1 {
+  float: left;
+  padding: 70px;
+  color: white;
+  font-weight: 700;
+}
+.link_button2 {
+  float: right;
+  margin: 90px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+  font-weight: 900;
+  background-image: linear-gradient(55deg, tomato, salmon);
+}
+.footericon {
+  text-align: center;
+}
+.footericon h3 {
+  color: #b3b3b6;
+  margin-bottom: -10px;
+}
+.footericon img {
+  width: 30px;
+  margin-right: 10px;
+  margin-top: -5px;
